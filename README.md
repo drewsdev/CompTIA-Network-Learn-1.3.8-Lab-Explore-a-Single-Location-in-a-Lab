@@ -24,18 +24,18 @@ Required Actions
 Explanation
 Complete this lab as follows:
 
-1. Add a monitor to the Office 2 computer.
-  a. Under Office 2, select Hardware to go to the workstation.
-  b. Under Shelf, expand Monitors.
-  c. Drag the monitor from the Shelf to the bench next to the computer.
+1. Add a monitor to the Office 2 computer.  
+  a. Under Office 2, select Hardware to go to the workstation.  
+  b. Under Shelf, expand Monitors.  
+  c. Drag the monitor from the Shelf to the bench next to the computer.  
 2. Connect the monitor to the computer.
-  a. Above the monitor, select Back to switch to the back view of the monitor.
-  b. Above the computer, select Back to switch to the back view of the computer.
-  c. Under Shelf, expand Cables.
-  d. Select HDMI to HDMI Cable.
-  e.From the Selected Component pane:
-    * Drag an HDMI Connector to the HDMI port on the back of the computer.
-    * Drag the other HDMI Connector to the HDMI port on the back of the monitor.
+  a. Above the monitor, select Back to switch to the back view of the monitor.  
+  b. Above the computer, select Back to switch to the back view of the computer.  
+  c. Under Shelf, expand Cables.  
+  d. Select HDMI to HDMI Cable.  
+  e.From the Selected Component pane:  
+    * Drag an HDMI Connector to the HDMI port on the back of the computer.  
+    * Drag the other HDMI Connector to the HDMI port on the back of the monitor.  
 3. Plug in the monitor.
   a. Under Shelf, select AC Power Cable.
   b.From the Selected Component pane:

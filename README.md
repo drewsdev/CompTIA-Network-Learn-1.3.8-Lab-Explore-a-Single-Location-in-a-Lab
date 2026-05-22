@@ -28,7 +28,7 @@ Complete this lab as follows:
   a. Under Office 2, select Hardware to go to the workstation.  
   b. Under Shelf, expand Monitors.  
   c. Drag the monitor from the Shelf to the bench next to the computer.  
-2. Connect the monitor to the computer.
+2. Connect the monitor to the computer.  
   a. Above the monitor, select Back to switch to the back view of the monitor.  
   b. Above the computer, select Back to switch to the back view of the computer.  
   c. Under Shelf, expand Cables.  
@@ -36,20 +36,20 @@ Complete this lab as follows:
   e.From the Selected Component pane:  
     * Drag an HDMI Connector to the HDMI port on the back of the computer.  
     * Drag the other HDMI Connector to the HDMI port on the back of the monitor.  
-3. Plug in the monitor.
-  a. Under Shelf, select AC Power Cable.
-  b.From the Selected Component pane:
-    * Drag the AC Power Connector (Female) to the monitor power port.
-    * Drag the AC Power Connector (Male) to the unused power port on the wall plate.
-4. Add the keyboard and mouse.
-  a. Under Shelf, expand Input Devices.
-  b. Drag the Keyboard to an empty USB port on the back of the computer.
-  c. Drag the Mouse to an empty USB port on the back of the computer.
-5. Power on the monitor and computer.
-  a. Above the monitor, select Front to switch to the front view of the monitor.
-  b. Above the computer, select Front to switch to the front view of the computer.
-  c. Select the power button on the monitor.
-  d. Select the power button on the computer.
-  e. The computer startup process begins, and you are automatically signed into Windows 11.
+3. Plug in the monitor.  
+  a. Under Shelf, select AC Power Cable.  
+  b.From the Selected Component pane:  
+    * Drag the AC Power Connector (Female) to the monitor power port.  
+    * Drag the AC Power Connector (Male) to the unused power port on the wall plate.  
+4. Add the keyboard and mouse.  
+  a. Under Shelf, expand Input Devices.  
+  b. Drag the Keyboard to an empty USB port on the back of the computer.  
+  c. Drag the Mouse to an empty USB port on the back of the computer.  
+5. Power on the monitor and computer.  
+  a. Above the monitor, select Front to switch to the front view of the monitor.  
+  b. Above the computer, select Front to switch to the front view of the computer.  
+  c. Select the power button on the monitor.  
+  d. Select the power button on the computer.  
+  e. The computer startup process begins, and you are automatically signed into Windows 11.  
   f. Right-click Start and then select Settings to explore the operating system simulator's capabilities.
 From the top menu (left side), select Office 2 to switch back to the Hardware view.

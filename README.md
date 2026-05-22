@@ -10,3 +10,13 @@ In this lab, your task is to complete the following from the Hardware view of th
 * Connect the power cord to the monitor and plug in the monitor.
 * Add the keyboard and mouse to the Office 2 computer.
 * Turn on the monitor and the computer.
+
+Required Actions
+[x] Add the monitor to Office 2
+[x] Connect the monitor to the computer using the HDMI cable
+[x] Plug in the monitor
+[x] Connect the keyboard to the computer
+[x] Connect the mouse to the computer
+[x] Turn on the monitor and the computerHide Details
+  [x] Turn on the monitor
+  [x] Turn on the computer
